@@ -31,5 +31,10 @@
 
 #OUTPUT:- 
 
+<img width="1202" height="420" alt="Image" src="https://github.com/user-attachments/assets/b74eebc7-671d-4e65-a3c7-154f00fc5eb4" />
+
+<img width="902" height="589" alt="Image" src="https://github.com/user-attachments/assets/70331ce5-7345-4a1a-895d-4a8929a8298f" />
+
+<img width="1127" height="293" alt="Image" src="https://github.com/user-attachments/assets/0d346c19-278f-4be8-b148-6e12ed5787c3" />
 
 Machine learning Task
